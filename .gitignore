@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build files
+dist/
+build/
+
+# Secrets
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.idea/
+*.swp
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.bak
+*.tmp
